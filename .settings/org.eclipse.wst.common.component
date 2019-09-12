@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="AzaldeguiExamen">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="spring-aop-5.0.8.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-aop-5.0.8.RELEASE/spring-aop-5.0.8.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-lang.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-lang/commons-lang">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="slf4j-api-1.7.25.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/slf4j-api-1.7.25/slf4j-api-1.7.25">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-io-1.3.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-io-1.3.2/commons-io-1.3.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="poi-3.10.1-20140818.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/poi-3.10.1-20140818/poi-3.10.1-20140818">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-collections.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-collections/commons-collections">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-beans-5.0.8.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-beans-5.0.8.RELEASE/spring-beans-5.0.8.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ojdbc6.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/ojdbc6/ojdbc6">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-beanutils-1.7.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-beanutils-1.7/commons-beanutils-1.7">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-tx-5.0.8.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-tx-5.0.8.RELEASE/spring-tx-5.0.8.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-core-5.0.8.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-core-5.0.8.RELEASE/spring-core-5.0.8.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-logging-1.1.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-logging-1.1.1/commons-logging-1.1.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-jdbc-5.0.8.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-jdbc-5.0.8.RELEASE/spring-jdbc-5.0.8.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-digester-2.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-digester-2.1/commons-digester-2.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-web-5.0.8.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-web-5.0.8.RELEASE/spring-web-5.0.8.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jstl-1.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jstl-1.2/jstl-1.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-jcl-5.0.8.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-jcl-5.0.8.RELEASE/spring-jcl-5.0.8.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="primefaces-5.3.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/primefaces-5.3/primefaces-5.3">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-data-commons-2.0.9.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-data-commons-2.0.9.RELEASE/spring-data-commons-2.0.9.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-context-5.0.8.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-context-5.0.8.RELEASE/spring-context-5.0.8.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="javax.persistence_2.1.0.v201304241213.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/javax.persistence_2.1.0.v201304241213/javax.persistence_2.1.0.v201304241213">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="servlet-api.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/servlet-api/servlet-api">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="eclipselink.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/eclipselink/eclipselink">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="javax.faces-2.2.12.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/javax.faces-2.2.12/javax.faces-2.2.12">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-expression-5.0.8.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-expression-5.0.8.RELEASE/spring-expression-5.0.8.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-fileupload-1.2.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-fileupload-1.2.2/commons-fileupload-1.2.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jasperreports-5.6.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jasperreports-5.6.0/jasperreports-5.6.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="standard.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/standard/standard">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-webmvc-5.0.8.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-webmvc-5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-orm-5.0.8.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-orm-5.0.8.RELEASE/spring-orm-5.0.8.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-data-jpa-2.0.9.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-data-jpa-2.0.9.RELEASE/spring-data-jpa-2.0.9.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="aopalliance-1.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/aopalliance-1.0/aopalliance-1.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="iText-2.1.7.js2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/iText-2.1.7.js2/iText-2.1.7.js2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="java-output-path" value="/AzaldeguiExamen/build/classes"/>
+        <property name="context-root" value="AzaldeguiExamen"/>
+    </wb-module>
+</project-modules>
