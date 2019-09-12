@@ -52,6 +52,7 @@ public class ProductoMB extends GenericoMB {
 		this.setLstProductos(new ArrayList<ProductoBean>());
 		this.buscar();
 		this.buscarPrecios();
+		
 	}
 
 	
